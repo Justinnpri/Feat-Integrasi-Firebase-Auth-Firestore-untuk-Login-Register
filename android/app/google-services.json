@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "778170953436",
+    "project_id": "project-luarsekolah",
+    "storage_bucket": "project-luarsekolah.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778170953436:android:8ee254a1f1233a23ce8e19",
+        "android_client_info": {
+          "package_name": "com.example.luarsekolah_fix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIwohRzNNwxyt6dt--wBPudGj8RdxTIe4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778170953436:android:a032ede483ed2279ce8e19",
+        "android_client_info": {
+          "package_name": "com.example.projectluarsekolah"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIwohRzNNwxyt6dt--wBPudGj8RdxTIe4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
